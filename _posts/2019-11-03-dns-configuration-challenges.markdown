@@ -16,5 +16,5 @@ A good question to ask is *why do less technical end users need to configure DNS
 
 For these users, it is important to design a user interface that corresponds to their needs and technical understanding.  Good user interfaces are intuitive (supplemented by minimal documentation) and make it difficult for users to do harm.  
 
-Obviously, all DNS configuration options would not necessarily be accessible through this type of interface. For users with deeper technical understanding of DNS, a more robust interface to DNS configuration can be provided.
+Obviously, all DNS configuration options would not be accessible through this type of interface. For users with deeper technical understanding of DNS, a more robust interface to DNS configuration can be provided.
  

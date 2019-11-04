@@ -7,7 +7,7 @@ date:   2019-11-03 12:55:17 -1000
 Rank your 5 favorite, and 5 least favorite, activities from this list: <a href="https://gist.github.com/fool/b0f254ff8c72a5765b6a9138249789d6" target="_blank">gist.github.com/fool/b0f254ff8c72a5765b6a9138249789d6</a>
 </blockquote>
 <h2>Favorite Activities</h2>
-I only get 5? It is hard to select only 5 activities! I really enjoy seeing successful users. Their success may be the direct result of support activities like debugging or creating a tutorial.  Product improvements also lead to more successful users.  And so I find it rewarding to help development teams better understand product usage. The top 5:
+I only get 5? It is hard to select only 5 activities! I really enjoy seeing successful users. Their success may be the direct result of support activities like debugging or creating a tutorial.  But product improvements also lead to more successful users.  And so I find it rewarding to help development teams better understand product usage. The top 5:
 <ul>
 <li>Write and maintain documentation for our software and blog posts for our website.</li>
 <li>Create video tutorials to help teach users a specific feature or use case</li>
