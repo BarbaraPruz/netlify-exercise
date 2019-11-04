@@ -15,7 +15,7 @@ Why do you think SSL/HTTPS is important?
 <p>Why are these things important?  Some examples:</p>
 <ul>
 <li>
-For a browser, it gets to know that it is talking to the expected host (and not some server pretending to be that host).  Note that for other environments, like IOT or payment devices, the protocol provides a methodology for the server to authenticate the client.
+For a browser, it gets to know that it is talking to the expected host (and not some server pretending to be that host).
 </li>  
 <li>
 Because data is encrypted, it is only available to the endpoints (client and server).  As the message gets passed through the Internet, malicious software cannot see the contents.
